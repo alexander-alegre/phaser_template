@@ -9,5 +9,5 @@ window.onload = function() {
     scene: [SceneMain]
   };
 
-  var game = new Phaser.Game(config);
+  game = new Phaser.Game(config);
 }
